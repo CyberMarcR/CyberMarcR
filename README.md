@@ -68,18 +68,3 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 *Badges, write-ups, and certificates to come.*
 
 ---
-    
-## 📂 Repository Structure
-
-```bash
-├── nmap-scans/
-│   └── scanme_report.md
-├── linux-labs/
-│   └── file-permissions.md
-├── metasploit/
-│   └── drupalgeddon_notes.md
-├── logs/
-│   └── brute_force_log_review.md
-├── tryhackme/
-│   └── dns_in_detail_notes.md
-└── README.md
