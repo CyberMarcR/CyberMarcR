@@ -7,7 +7,7 @@ Feel free to connect with me as I grow in this field!
 
 ---
 
-## Brief About Me
+## About Me
 
 IT professional with deep passion for IT support and technical problem-solving. I'm an aspiring cybersecurity professional currently training in areas such as:
 
@@ -51,19 +51,19 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🔍 **Network Scanning Practice** | Scanned my local network & public IP targets (`scanme.nmap.org`). Analyzed open ports & services. | Nmap, Linux |
-| 🧰 **SSH Brute Force Log Simulation** | Simulated brute-force attempts and analyzed logs using `rsyslog` and `grep` in Kali Linux. | SSH, syslog, grep |
-| 📄 **Logwatch Report Analysis** | Generated system reports and identified login attempts & failed sessions. | Logwatch, syslog |
-| 🌐 **Web Server Scanning** | Used Nikto and Nmap to analyze vulnerable web servers. | Nikto, Nmap |
-| 🧠 **TryHackMe Labs** | Completed rooms on networking, scanning, Linux fundamentals, and reconnaissance. | TryHackMe |
+| **Network Scanning Practice** | Scanned my local network & public IP targets (`scanme.nmap.org`). Analyzed open ports & services. | Nmap, Linux |
+| **SSH Brute Force Log Simulation** | Simulated brute-force attempts and analyzed logs using `rsyslog` and `grep` in Kali Linux. | SSH, syslog, grep |
+| **Logwatch Report Analysis** | Generated system reports and identified login attempts & failed sessions. | Logwatch, syslog |
+| **Web Server Scanning** | Used Nikto and Nmap to analyze vulnerable web servers. | Nikto, Nmap |
+| **TryHackMe Labs** | Completed rooms on networking, scanning, Linux fundamentals, and reconnaissance. | TryHackMe |
 
 ---
 
-## 🔍 TryHackMe Progress
+## TryHackMe Progress
 
-- ✅ Pre Security path
-- 🔒 Currently working through: [Cyber Security 101]
-- 🏁 Goal: Complete Penetration Testing and SOC Pathways
+- ## Pre Security path [COMPLETED]
+- ## Currently working through: [Cyber Security 101]
+- ## Goal: Complete Penetration Testing and SOC Pathways
 
 *Badges, write-ups, and certificates to come.*
 
