@@ -52,6 +52,7 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 | Project | Description | Tools Used |
 |--------|-------------|------------|
 | **Network Scanning Practice** | Scanned my local network & public IP targets (`scanme.nmap.org`). Analyzed open ports & services. | Nmap, Linux |
+| **TCPDump Packet Sniffing** | Captured and analyzed network traffic on my local network using `tcpdump`. Saved `.pcap` files for inspection in Wireshark. | TCPDump, Wireshark, Linux |
 | **SSH Brute Force Log Simulation** | Simulated brute-force attempts and analyzed logs using `rsyslog` and `grep` in Kali Linux. | SSH, syslog, grep |
 | **Logwatch Report Analysis** | Generated system reports and identified login attempts & failed sessions. | Logwatch, syslog |
 | **Web Server Scanning** | Used Nikto and Nmap to analyze vulnerable web servers. | Nikto, Nmap |
@@ -59,12 +60,13 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 
 ---
 
-## TryHackMe Progress
+## Current TryHackMe Progress
 
-- ## Pre Security path [COMPLETED]
-- ## Currently working through: [Cyber Security 101]
-- ## Goal: Complete Penetration Testing and SOC Pathways
+- Pre Security path [COMPLETED]
+- Currently working through: [Cyber Security 101]
+- Goal: Complete Penetration Testing and SOC Pathways
 
 *Badges, write-ups, and certificates to come.*
+## Completed CTFs 
 
 ---
