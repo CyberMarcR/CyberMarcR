@@ -71,6 +71,7 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 
 ## Certificates Earned 
 [View Cyber Security Fundamentals Pathway.pdf](https://github.com/CyberMarcR/images/blob/main/Cyber%20Security%20Fundamentals%20Pathway.pdf)
+
 [View Introduction to Ethical Hacking Tools.pdf](https://github.com/CyberMarcR/images/blob/main/Introduction%20to%20Ethical%20Hacking%20Tools.pdf)
 ## Completed CTFs 
 
