@@ -66,7 +66,12 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 - Currently working through: [Cyber Security 101] (34%)
 - Goal: Complete Penetration Testing and SOC Pathways
 
-*Badges, write-ups, and certificates to come.*
+## THM Current Badges
+(images/THMBadges.png)
+
+## Certificates Earned 
+[View Cyber Security Fundamentals Pathway.pdf](https://github.com/CyberMarcR/images/raw/main/Cyber Security Fundamentals Pathway.pdf)
+[View Introduction to Ethical Hacking Tools.pdf](https://github.com/CyberMarcR/images/raw/main/Introduction to Ethical Hacking Tools.pdf)
 ## Completed CTFs 
 
 ---
