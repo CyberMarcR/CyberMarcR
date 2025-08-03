@@ -63,7 +63,7 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 ## Current TryHackMe Progress
 
 - Pre Security path [COMPLETED]
-- Currently working through: [Cyber Security 101] (34%)
+- Currently working through: [Cyber Security 101] (42%)
 - Goal: Complete Penetration Testing and SOC Pathways
 
 ## THM Current Badges
