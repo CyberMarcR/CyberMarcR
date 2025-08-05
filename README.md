@@ -30,7 +30,7 @@ I'm using tools such as;
 <img src="https://img.shields.io/badge/-Metasploit-3F3F3F?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 <!-- John the Ripper -->
-<img src="https://img.shields.io/badge/-John_the_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white"/> Password-Hash-Cracking-Lab (https://github.com/CyberMarcR/Password-Hash-Cracking-Lab)
+<a href="https://github.com/CyberMarcR/Password-Hash-Cracking-Lab"><img src="https://img.shields.io/badge/-John_the_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
 
 <!-- Nikto -->
 <img src="https://img.shields.io/badge/-Nikto-FF6600?style=for-the-badge&logo=apache&logoColor=white"/>
