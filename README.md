@@ -58,7 +58,7 @@ With a strong foundation in 1st Line IT Support, I’ve developed a growing inte
 - Goal: Complete Penetration Testing and SOC Pathways
 
 ## THM Current Badges
-
+[images/THMBadges.png](https://github.com/CyberMarcR/images/blob/main/THMBadges.png)
 
 ## Certificates Earned 
 [View Cyber Security Fundamentals Pathway.pdf](https://github.com/CyberMarcR/images/blob/main/Cyber%20Security%20Fundamentals%20Pathway.pdf)
