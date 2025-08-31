@@ -27,7 +27,7 @@ I'm using tools such as;
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 <!-- Metasploit -->
-<a href="https://github.com/CyberMarcR/Metasploit-EternalBlue/blob/main/README.md"><img src="https://img.shields.io/badge/-Metasploit-3F3F3F?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://github.com/CyberMarcR/Metasploit-EternalBlue/tree/main"><img src="https://img.shields.io/badge/-Metasploit-3F3F3F?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 <!-- John the Ripper -->
 <a href="https://github.com/CyberMarcR/Password-Hash-Cracking-Lab"><img src="https://img.shields.io/badge/-John_the_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
