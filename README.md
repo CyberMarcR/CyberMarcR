@@ -17,8 +17,6 @@ IT professional with deep passion for IT support and technical problem-solving. 
 - Threat Intelligence
 
 I'm using tools such as; 
-<!-- Kali Linux -->
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 <!-- Nmap -->
 <img src="https://img.shields.io/badge/-Nmap-4B8BBE?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
