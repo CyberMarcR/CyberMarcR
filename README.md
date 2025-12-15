@@ -5,7 +5,7 @@ Feel free to connect with me as I grow in this field!
 
 <a href="https://www.linkedin.com/in/marcus-radosta-b4676717a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo+linkedin&logoColor=white" /></a>
 
-Please note: This portfolio is still under construction and will be updated as I progress in my learning journey.
+- Please note: This portfolio is still under construction and will be updated as I progress in my learning journey.
 ---
 
 ## About Me
