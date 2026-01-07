@@ -20,7 +20,7 @@ IT professional with deep passion for IT support and technical problem-solving. 
 I'm using tools such as; 
 
 <!-- Nmap -->
-<img src="https://img.shields.io/badge/-Nmap-4B8BBE?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+<a href="https://github.com/CyberMarcR/Metasploitable-2-Write-Up/blob/main"><img src="https://img.shields.io/badge/-Nmap-4B8BBE?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
 
 <!-- Wireshark -->
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
