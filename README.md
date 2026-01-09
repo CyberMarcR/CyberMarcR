@@ -1,6 +1,8 @@
 ## Cybersecurity Portfolio – Marcus R
 
-This is my cybersecurity portfolio! Here I will be documenting hands-on learning, projects, challenges and skills developed as I pursue a career in cybersecurity.
+This is my cybersecurity portfolio, where I document hands-on learning, labs, and projects as I transition into the cybersecurity field. My focus is on building practical, real-world skills through structured experimentation, documentation, and continuous learning.
+This portfolio is actively maintained and will be updated as I progress.
+
 Feel free to connect with me as I grow in this field!
 
 <a href="https://www.linkedin.com/in/marcus-radosta-b4676717a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo+linkedin&logoColor=white" /></a>
@@ -9,13 +11,13 @@ Feel free to connect with me as I grow in this field!
 ---
 
 ## About Me
-
-IT professional with deep passion for IT support and technical problem-solving. I'm an aspiring cybersecurity professional currently training in areas such as:
-
+I’m an IT professional with a strong background in 1st Line IT Support and a deep interest in cybersecurity and technical problem-solving. I am currently training in:
 - Linux & Systems Administration
-- Penetration Testing
-- SOC Analyst Fundamentals
+- Penetration Testing Fundamentals
+- SOC Analyst Foundations
 - Threat Intelligence
+
+I focus on understanding not just how tools work, but why they behave the way they do, with an emphasis on documentation and learning outcomes.
 
 I'm using tools such as; 
 
@@ -44,9 +46,12 @@ I'm using tools such as;
 
 ---
 ## Objectives
-With a strong foundation in 1st Line IT Support, I’ve developed a growing interest in cybersecurity and am now actively pursuing a transition into the field. My goal is to build on my technical background and move into a role as a Security Operations Center (SOC) Analyst, where I can contribute to threat detection, incident response, and proactive network defense.
+My goal is to transition into a Security Operations Center (SOC) Analyst role, where I can contribute to threat detection, incident response, and proactive network defence, building on my IT support background and hands-on cybersecurity training.
 
 ## Projects & Labs
+- Password Hash Cracking Lab – Practical use of John the Ripper across multiple hash types with documented results
+- Metasploitable 2 Write-Up – Vulnerable VM exploitation using Nmap and Metasploit
+- Metasploit EternalBlue (WIP) – Ongoing exploration of CVE-2017-0144 in a controlled lab environment
 
 ---
 
