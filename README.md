@@ -52,13 +52,14 @@ My goal is to transition into a Security Operations Center (SOC) Analyst role, w
 - Password Hash Cracking Lab – Practical use of John the Ripper across multiple hash types with documented results
 - Metasploitable 2 Write-Up – Vulnerable VM exploitation using Nmap and Metasploit
 - Metasploit EternalBlue (WIP) – Ongoing exploration of CVE-2017-0144 in a controlled lab environment
+- Creating a home lab SIEM setup
 
 ---
 
 ## Current TryHackMe Progress
 
 - Pre Security path [COMPLETED]
-- Currently working through: [Cyber Security 101] (78%) Logs Fundamentals
+- Currently working through: [Cyber Security 101] (80%) Introduction to SIEM
 - Goal: Complete Penetration Testing and SOC Pathways
 
 ## THM Current Badges
