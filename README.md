@@ -53,6 +53,7 @@ My goal is to transition into a Security Operations Center (SOC) Analyst role, w
 - Metasploitable 2 Write-Up – Vulnerable VM exploitation using Nmap and Metasploit
 - Metasploit EternalBlue (WIP) – Ongoing exploration of CVE-2017-0144 in a controlled lab environment
 - Creating a home lab SIEM setup
+- Bluetooth Sniffing within controlled home environment
 
 ---
 
