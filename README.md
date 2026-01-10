@@ -17,7 +17,6 @@ I’m an IT professional with a strong background in 1st Line IT Support and a d
 - SOC Analyst Foundations
 - Threat Intelligence
 
-I focus on understanding not just how tools work, but why they behave the way they do, with an emphasis on documentation and learning outcomes.
 
 I'm using tools such as; 
 
@@ -46,14 +45,14 @@ I'm using tools such as;
 
 ---
 ## Objectives
-My goal is to transition into a Security Operations Center (SOC) Analyst role, where I can contribute to threat detection, incident response, and proactive network defence, building on my IT support background and hands-on cybersecurity training.
+My goal is to transition into a Security Operations Center Analyst role, where I can contribute to threat detection, incident response and, network defence, building on my IT support background and hands-on cybersecurity training.
 
 ## Projects & Labs
-- Password Hash Cracking Lab – Practical use of John the Ripper across multiple hash types with documented results
-- Metasploitable 2 Write-Up – Vulnerable VM exploitation using Nmap and Metasploit
-- Metasploit EternalBlue (WIP) – Ongoing exploration of CVE-2017-0144 in a controlled lab environment
-- Creating a home lab SIEM setup
-- Bluetooth Sniffing within controlled home environment
+- Password Hash Cracking Lab - Practical analysis of John the Ripper across multiple hash types with documented results.
+- Metasploitable 2 Write-Up - Vulnerable VM exploitation using Nmap and Metasploit.
+- Metasploit EternalBlue (WIP) - Ongoing exploration of CVE-2017-0144 in a controlled lab environment with focus on exploitation mechanics and mitigation awareness.
+- Creating a home lab SIEM setup (Planned) - Planned development of a functional, lab-scale SIEM environment on a Kali Linux VM to understand log ingestion, analysis, and alerting beneath typical SOC UIs.
+- Bluetooth Traffic Analysis (Planned, Controlled Lab) - Capturing and analysing Bluetooth traffic to understand pairing, protocols, and potential security weaknesses.
 
 ---
 
