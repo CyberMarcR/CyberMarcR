@@ -58,7 +58,7 @@ My goal is to transition into a Security Operations Center (SOC) Analyst role, w
 ## Current TryHackMe Progress
 
 - Pre Security path [COMPLETED]
-- Currently working through: [Cyber Security 101] (66%) Digital Forensics Fundamentals
+- Currently working through: [Cyber Security 101] (78%) Logs Fundamentals
 - Goal: Complete Penetration Testing and SOC Pathways
 
 ## THM Current Badges
@@ -68,6 +68,10 @@ My goal is to transition into a Security Operations Center (SOC) Analyst role, w
 [View Cyber Security Fundamentals Pathway.pdf](https://github.com/CyberMarcR/images/blob/main/Cyber%20Security%20Fundamentals%20Pathway.pdf)
 
 [View Introduction to Ethical Hacking Tools.pdf](https://github.com/CyberMarcR/images/blob/main/Introduction%20to%20Ethical%20Hacking%20Tools.pdf)
+
+Currently pursuing a Cisco Networking Academy: Introduction to Cybersecurity Certification
+
+Currently pursuing a QA Platform Foundation in Cyber Security Certification
 ## Completed CTFs 
 
 ---
