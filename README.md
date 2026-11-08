@@ -50,17 +50,11 @@ My goal is to transition into a Security Operations Center Analyst role, where I
 ## Projects & Labs
 - Password Hash Cracking Lab - Practical analysis of John the Ripper across multiple hash types with documented results.
 - Metasploitable 2 Write-Up - Vulnerable VM exploitation using Nmap and Metasploit.
-- Metasploit EternalBlue (WIP) - Ongoing exploration of CVE-2017-0144 in a controlled lab environment with focus on exploitation mechanics and mitigation awareness.
-- Creating a home lab SIEM setup (Planned) - Planned development of a functional, lab-scale SIEM environment on a Kali Linux VM to understand log ingestion, analysis, and alerting beneath typical SOC UIs.
-- Bluetooth Traffic Analysis (Planned, Controlled Lab) - Capturing and analysing Bluetooth traffic to understand pairing, protocols, and potential security weaknesses.
+- Metasploit EternalBlue - Ongoing exploration of CVE-2017-0144 in a controlled lab environment with focus on exploitation mechanics and mitigation awareness.
+- Creating a home lab SIEM setup - Development of a functional, lab-scale SIEM environment on a Kali Linux VM to understand log analysis and alerting beneath typical SOC UIs.
+- Bluetooth Traffic Analysis (Controlled Lab) - Capturing and analysing Bluetooth traffic to understand pairing, protocols, and potential security weaknesses.
 
 ---
-
-## Current TryHackMe Progress
-
-- Pre Security path [COMPLETED]
-- Currently working through: [Cyber Security 101] (80%) Introduction to SIEM
-- Goal: Complete Penetration Testing and SOC Pathways
 
 ## THM Current Badges
 [images/THMBadges.png](https://github.com/CyberMarcR/images/blob/main/THMBadges.png)
@@ -70,9 +64,10 @@ My goal is to transition into a Security Operations Center Analyst role, where I
 
 [View Introduction to Ethical Hacking Tools.pdf](https://github.com/CyberMarcR/images/blob/main/Introduction%20to%20Ethical%20Hacking%20Tools.pdf)
 
+[View Foundations in Cyber Security.pdf](https://github.com/CyberMarcR/images/blob/main/Foundations%20in%20Cyber%20Security.pdf)
+
 Currently pursuing a Cisco Networking Academy: Introduction to Cybersecurity Certification
 
-Currently pursuing a QA Platform Foundation in Cyber Security Certification
 ## Completed CTFs 
 
 ---
